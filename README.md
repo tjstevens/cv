@@ -42,7 +42,6 @@ November 2005 - February 2011 | Compuware Corporation / Covisint
 
 ### Director, PMO & Software Production
 December 2003 - November 2005 | McGill Digital Solutions
-- Oversaw Project Management & Software Production, managing personnel and project deliverables.
 
 ### Solution Consultant
 January 2002 - December 2003 | OnX Enterprise Solutions
@@ -53,7 +52,7 @@ February 2000 - January 2002 | Fiserv GalaxyPlus
 ## Education
 Honours Bachelor of Commerce  
 1994 September - June 1998 | University of Windsor  
-Focus: Management Information Systems, Organizational Behaviour
+Management Information Systems, Organizational Behaviour
 
 ## Certifications & Training
 - Salesforce.com Certified Developer (2013)
