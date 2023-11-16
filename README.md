@@ -77,7 +77,6 @@ Management Information Systems, Organizational Behaviour
 - "Designed for Digital" by Cynthia Beeth and Jeanine Ross
 - "Blue Ocean Strategy"
 - "Business Model Generation" by Strategizer Team
-- [Other influences]
 
 ## Leadership Philosophy
 - Research: Data-driven and informed decision-making.
