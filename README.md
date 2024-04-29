@@ -12,16 +12,17 @@ Visionary Enterprise Architect and dynamic, business-minded technologist with ov
 
 ## Core Competencies
 - **Flagship Assignments**: Repeated success in spearheading high-impact, flagship projects.
-- **Agile Execution**: Proficient in agile-like methodologies with an emphasis on reflection and creating excellence cycles.
+- **Agile Execution**: Proficient in agile methodologies with an emphasis on reflection and creating excellence cycles.
 - **Team Collaboration**: Strong ability to work within and lead cross-functional teams.
 - **Data-Driven Decision Making**: Utilizing data to inform strategies and drive effective proposals and pitches.
 - **Broad & Deep Experience in Technology**: Expertise in a broad range of technologies from Salesforce to Cisco; from enterprise architecture to generative AI.
-- **Enterprise Selling**: Advocacy and adherence to Kalsa’s and the Sandler's customer-centric selling methodologies.
+- **Enterprise Selling**: Advocacy and adherence to Kalsa’s and Sandler's customer-centric selling methodologies.
 - **Influential Thought Leadership**: Drawing inspiration from "Let's Get Real or Let's Not Play", "Getting Things Done", and "Designed for Digital".
 
 ---
 
 ## Professional Experience
+
 **Distinguished Solution Architect, Salesforce**  
 *February 2024 – Present*  
 - Spearheaded the formation and leadership staffing of a global solution architecture team, enhancing Salesforce's partner ecosystem engagements.
@@ -42,8 +43,8 @@ Visionary Enterprise Architect and dynamic, business-minded technologist with ov
 
 **Principal Solution Engineer, Salesforce**  
 *June 2012 – May 2014; May 2017 – May 2020*  
-- Provided technical leadership and solution engineering for regional clients including Proctor & Gamble and later Automotive industry accounts including BMW and Volkswagen, delivering tailored Salesforce solutions that drove customer experience and company performance.
-- Led the visioning and design of innovative applications using Salesforce platform, enhancing client operations and customer interactions.
+- Provided technical leadership and solution engineering for regional clients including Procter & Gamble and later for automotive industry accounts including BMW and Volkswagen, delivering tailored Salesforce solutions that drove customer experience and company performance.
+- Led the visioning and design of innovative applications using the Salesforce platform, enhancing client operations and customer interactions.
 - Collaborated closely with cross-functional teams to ensure seamless integration of Salesforce technologies with client systems.
 
 **IM Project Leader & Salesforce Architect, GE Energy**  
@@ -54,7 +55,7 @@ Visionary Enterprise Architect and dynamic, business-minded technologist with ov
 
 **Sole Proprietor, Dagobah Systems LLC**
 *December 2008 - June 2012*
-- Independant consultant focused on enabling small businesses do more with less via bleeding edge applications of technology
+- Independent consultant focused on enabling small businesses to do more with less via bleeding-edge applications of technology.
 
 **Program Director, Covisint**  
 *September 2007 – February 2011*  
@@ -85,6 +86,7 @@ Visionary Enterprise Architect and dynamic, business-minded technologist with ov
 ---
 
 ## Education
+
 **University of Windsor**  
 *Bachelor of Commerce, Business, Management, Marketing, and Economics*  
 *1994 – 1998*
@@ -93,7 +95,10 @@ Visionary Enterprise Architect and dynamic, business-minded technologist with ov
 *High School*  
 *1989 – 1994*
 
+---
+
 ## Certifications & Training
+
 - Salesforce Certified Platform Developer (2013)
 - Salesforce Certified Advanced Administrator (2012)
 - Salesforce Certified Administrator (2012)
@@ -107,6 +112,7 @@ Visionary Enterprise Architect and dynamic, business-minded technologist with ov
 ---
 
 ## Professional Influences
+
 - "Let's Get Real or Let's Not Play" by Mahan Khalsa and Randy Illig
 - "Getting Things Done: The Art of Stress-Free Productivity" by David Allen
 - "Designed for Digital: How to Architect Your Business for Sustained Success" by Jeanne W. Ross, Cynthia M. Beath, and Martin Mocker
@@ -114,8 +120,11 @@ Visionary Enterprise Architect and dynamic, business-minded technologist with ov
 - "Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers" by Alexander Osterwalder and Yves Pigneur
 
 ## Leadership Approach
+
 - **Research**: Embrace data-driven and informed decision-making to ensure robust outcomes.
 - **Remit**: Establish clear accountabilities based on comprehensive research to empower team members.
 - **Resources**: Strategically allocate available resources within intelligent constraints to optimize performance.
 - **Rigor**: Uphold high standards through the establishment of ritual and ceremony in process methodology.
 - **Reflection**: Foster continuous improvement through regular retrospectives and feedback loops, adapting strategies to enhance efficiency and effectiveness.
+
+---
