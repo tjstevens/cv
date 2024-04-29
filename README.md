@@ -53,8 +53,8 @@ Visionary Enterprise Architect and dynamic, business-minded technologist with ov
 - Led the integration of Salesforce with SAP systems to streamline the lead-to-cash process, contributing significantly to a unified operational framework.
 - Managed knowledge systems using Google Enterprise Search appliances, improving data accessibility and decision-making processes across the organization.
 
-### Sole Proprietor
-December 2008 - June 2012 | Dagobah Systems LLC
+**Sole Proprietor, Dagobah Systems LLC**
+*December 2008 - June 2012*
 - Independant consultant focused on enabling small businesses do more with less via bleeding edge applications of technology
 
 **Program Director, Covisint**  
