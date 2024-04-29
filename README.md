@@ -16,10 +16,9 @@ Visionary Enterprise Architect and dynamic, business-minded technologist with ov
 - **Agile Execution**: Proficient in agile-like methodologies with an emphasis on reflection and creating excellence cycles.
 - **Team Collaboration**: Strong ability to work within and lead cross-functional teams.
 - **Data-Driven Decision Making**: Utilizing data to inform strategies and drive effective proposals and pitches.
-- **Deep Work in Technology**: Commitment to engaging in deep, impactful work, particularly in enterprise architecture and generative AI.
-- **Enterprise Selling**: Adherence to Kalsa’s and the Sandler selling methodologies.
+- **Broad & Deep Experience in Technology**: Expertise in a broad range of technologies from Salesforce to Cisco; from enterprise architecture to generative AI.
+- **Enterprise Selling**: Advocacy and adherence to Kalsa’s and the Sandler's customer-centric selling methodologies.
 - **Influential Thought Leadership**: Drawing inspiration from "Let's Get Real or Let's Not Play", "Getting Things Done", and "Designed for Digital".
-- **Technological Proficiency**: Expertise in Ruby on Rails, Lua, and other advanced technologies.
 
 ---
 
