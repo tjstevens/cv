@@ -1,4 +1,3 @@
-*resume*
 # TJ Stevens
 
 *Email*: [tj@tjstevens.net](mailto:tj@tjstevens.net)  
