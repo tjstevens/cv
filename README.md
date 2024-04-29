@@ -85,9 +85,13 @@ Visionary Enterprise Architect and dynamic, business-minded technologist with ov
 ---
 
 ## Education
-Honours Bachelor of Commerce  
-1994 September - June 1998 | University of Windsor  
-Management Information Systems, Organizational Behaviour
+**University of Windsor**  
+*Bachelor of Commerce, Business, Management, Marketing, and Economics*  
+*1994 – 1998*
+
+**Riverside Secondary School**  
+*High School*  
+*1989 – 1994*
 
 ## Certifications & Training
 - Salesforce Certified Platform Developer (2013)
@@ -103,15 +107,15 @@ Management Information Systems, Organizational Behaviour
 ---
 
 ## Professional Influences
-- "Let's Get Real, or Let's Not Play" by Mahan Khalsa
-- "Getting Things Done" by David Allen
-- "Designed for Digital" by Cynthia Beeth and Jeanine Ross
-- "Blue Ocean Strategy"
-- "Business Model Generation" by Strategizer Team
+- "Let's Get Real or Let's Not Play" by Mahan Khalsa and Randy Illig
+- "Getting Things Done: The Art of Stress-Free Productivity" by David Allen
+- "Designed for Digital: How to Architect Your Business for Sustained Success" by Jeanne W. Ross, Cynthia M. Beath, and Martin Mocker
+- "Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant" by W. Chan Kim and Renée Mauborgne
+- "Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers" by Alexander Osterwalder and Yves Pigneur
 
 ## Leadership Approach
-- Research: Data-driven and informed decision-making.
-- Remit: Clearly defined accountabilities based on research.
-- Resources: Allocation of available resources within intelligent constraints.
-- Rigor: Establishment of ritual and ceremony in process methodology.
-- Reflection: Continuous improvement through retrospectives and feedback loops.
+- **Research**: Embrace data-driven and informed decision-making to ensure robust outcomes.
+- **Remit**: Establish clear accountabilities based on comprehensive research to empower team members.
+- **Resources**: Strategically allocate available resources within intelligent constraints to optimize performance.
+- **Rigor**: Uphold high standards through the establishment of ritual and ceremony in process methodology.
+- **Reflection**: Foster continuous improvement through regular retrospectives and feedback loops, adapting strategies to enhance efficiency and effectiveness.
