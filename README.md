@@ -22,7 +22,7 @@ A dynamic, business-minded technologist with over 20 years of experience in ente
 ---
 
 ## Professional Experience
-!(/Salary%20Progress%20chart.png)
+!([/Salary%20Progress%20chart.png](https://raw.githubusercontent.com/tjstevens/cv/main/Salary%20Progress%20chart.png)
 
 **Distinguished Solution Architect, Salesforce**  
 *February 2024 – Present*  
