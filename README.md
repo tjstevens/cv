@@ -8,7 +8,7 @@
 ---
 
 ## Professional Summary
-Visionary Enterprise Architect and dynamic, business-minded technologist with over 20 years of experience in enterprise architecture across industries including automotive, healthcare, and consumer goods, specializing in CRM and digital transformations. Proven track record in driving strategic initiatives and technology integration for global companies like GE and Salesforce. Expert in designing and implementing comprehensive solutions that enhance business processes, increase efficiency, and drive growth. Skilled in leading cross-functional teams, managing large-scale projects, and fostering collaborative relationships to achieve business and IT alignment.
+A dynamic, business-minded technologist with over 20 years of experience in enterprise architecture and solutions across industries including automotive, healthcare, and consumer goods, specializing in CRM and digital transformations. Proven track record in driving strategic initiatives and technology integration for global companies like GM, GE and Salesforce. Expert in designing and implementing comprehensive solutions that enhance business processes, increase efficiency, and drive growth. Skilled in leading cross-functional teams, managing large-scale projects, and fostering collaborative relationships to achieve business and IT alignment.
 
 ## Core Competencies
 - **Flagship Assignments**: Repeated success in spearheading high-impact, flagship projects.
